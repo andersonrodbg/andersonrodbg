@@ -37,9 +37,9 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, programação 
 
 ## 📫 Contato
 
-- ✉️ Email: seuemail@exemplo.com
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/anderson-rodrigues-braga/)
-- 🌐 Portfólio (se houver): [www.seuportfólio.com](https://andersonrodbg.github.io/meu-portfolio/)
+- ✉️ Email: andersondudu1290@gmail.com
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/anderson-rodrigues-braga/)
+- 🌐 Portfólio : [Meu Portfólio](https://andersonrodbg.github.io/meu-portfolio/)
 
 ---
 
