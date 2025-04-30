@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Anderson
+# 👋 Olá, eu sou o Anderson
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, programação e por transformar ideias em soluções reais. Atualmente, trabalho com desenvolvimento de software focado em projetos criativos e funcionais.
 
