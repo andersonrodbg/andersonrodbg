@@ -1,7 +1,7 @@
 <!-- Banner SVG animado -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1DB954&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Anderson!;🚀+Desenvolvedor+Web+e+Dev+Criativo;💡+Construindo+projetos+com+propósito)
 
-# 👨‍💻 Anderson Rodrigues — Dev Criativo
+# 👨‍💻 Anderson Rodrigues — Software Engineer
 
 🎨 Eu transformo ideias em experiências digitais: interfaces interativas, automação útil e projetos com cara e alma.  
 Trabalho com front-end moderno (React) e back-end em Java/Spring — sempre com pitadas de criatividade.
