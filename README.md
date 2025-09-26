@@ -30,8 +30,8 @@ Trabalho com front-end moderno (React) e back-end em Java/Spring — sempre com 
 
 ## 🚀 Projetos em destaque
 
-### 📸 Álbum Digital (React)
-Um álbum interativo com páginas que simulam um álbum físico — foco em usabilidade, animações sutis e responsividade.
+### 🔑 Secure Key (Java,Javascript)
+Sistema criado para guardar senhas de forma segura, usando faceid como login.
 
 ### ⚙️ Plataforma de Prioridade de Peças
 Sistema para empresas gerenciarem prioridades na solicitação de peças, com filtros, painéis e notificações.
