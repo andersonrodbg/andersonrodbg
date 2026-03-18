@@ -11,7 +11,7 @@ Trabalho com front-end moderno (React) e back-end em Java/Spring — sempre com 
 ## ✨ Destaques rápidos
 
 - 🔭 Atualmente trabalhando em: **Álbum digital (React)**, **Plataforma de peças prioritárias** e **Sistema de agendamento para barbearias**  
-- 🧩 Stack: `JavaScript`, `React`, `HTML`, `CSS`, `Java`, `Spring Boot`, `Google Sheets API`  
+- 🧩 Stack: `JavaScript`, `React`, `HTML`, `CSS`, `Java`, `Spring Boot`,  
 - ⚡ Estilo: protótipos rápidos, UI limpa e foco em usabilidade
 
 ---
@@ -24,7 +24,7 @@ Trabalho com front-end moderno (React) e back-end em Java/Spring — sempre com 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 ---
 
